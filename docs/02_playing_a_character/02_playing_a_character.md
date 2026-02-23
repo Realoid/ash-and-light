@@ -1,0 +1,3 @@
+**PLAYING A CHARACTER**
+
+Playing a character in Ash & Light means taking a position in the world and accepting the limits and possibilities that come with it. Types, classes, and alignment shape how a character approaches danger, cooperation, belief, and compromise. They influence what feels natural, what feels costly, and what remains possible when circumstances tighten. A character is both a set of abilities and a point of view, carrying strengths, blind spots, and tendencies that affect how situations unfold and how consequences are lived through.

@@ -1,0 +1,3 @@
+**SYSTEMS (MECHANICS)**
+
+The systems of Ash & Light are not rule sets to master, but structures through which choices become consequential. They describe how people stand together, how situations escalate, how capability grows, and how the world responds when something is committed rather than withheld. Nothing here exists to optimize play or ensure safety. These systems exist to make decisions legible, failure persistent, and success conditional on understanding rather than repetition.
