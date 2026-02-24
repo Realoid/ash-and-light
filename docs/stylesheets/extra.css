@@ -1,21 +1,48 @@
+/* Ash & Light theme overrides
+   Clean rewrite: header, sidebar, logo, nav colors, scrollbar
+*/
+
+:root {
+  --al-brown: #4a3322;
+  --al-header-bg: #2f2a26;
+  --al-header-fg: #ffffff;
+
+  --al-sidebar-top: #ffffff;
+  --al-sidebar-body: #f6f6f6;
+  --al-sidebar-border: #e0e0e0;
+
+  --al-logo-height: 120px;
+  --al-logo-shift-y: -26px; /* move logo up */
+  --al-sidebar-top-height: 160px; /* white strip height at top of sidebar */
+}
+
+/* Header */
 .md-header {
-  background-color: #2f2a26;
+  background-color: var(--al-header-bg);
 }
 
 .md-header__title,
 .md-header__button {
-  color: #ffffff;
+  color: var(--al-header-fg);
 }
 
 .md-header__button.md-logo {
   display: none;
 }
 
+/* Left sidebar background and divider */
 .md-sidebar--primary {
-  background-color: #f6f6f6;
-  border-right: 1px solid #e0e0e0;
+  border-right: 1px solid var(--al-sidebar-border);
+  background: linear-gradient(
+    to bottom,
+    var(--al-sidebar-top) 0,
+    var(--al-sidebar-top) var(--al-sidebar-top-height),
+    var(--al-sidebar-body) var(--al-sidebar-top-height),
+    var(--al-sidebar-body) 100%
+  );
 }
 
+/* Replace the nav title text with the logo image */
 .md-nav__title {
   font-size: 0;
   padding: 0;
@@ -25,14 +52,18 @@
 .md-nav__title::before {
   content: "";
   display: block;
+  width: 100%;
+  height: var(--al-logo-height);
+
   background-image: url("../images/logo.png");
   background-repeat: no-repeat;
   background-position: left top;
   background-size: contain;
-  width: 100%;
-  height: 120px;
+
+  margin-top: var(--al-logo-shift-y);
 }
 
+/* Primary nav link colors */
 .md-nav--primary .md-nav__link {
   color: #000000;
 }
@@ -41,15 +72,16 @@
 .md-nav--primary .md-nav__link:focus,
 .md-nav--primary .md-nav__item--active > .md-nav__link,
 .md-nav--primary .md-nav__link--active {
-  color: #4a3322;
+  color: var(--al-brown);
 }
 
+/* Sidebar scrollbar (SimpleBar) */
 .md-sidebar--primary .simplebar-scrollbar::before {
-  background-color: #4a3322;
+  background-color: var(--al-brown);
 }
 
 .md-sidebar--primary .simplebar-scrollbar.simplebar-visible::before {
-  background-color: #4a3322;
+  background-color: var(--al-brown);
 }
 
 .md-sidebar--primary .simplebar-track.simplebar-vertical {
