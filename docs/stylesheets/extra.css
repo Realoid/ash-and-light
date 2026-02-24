@@ -18,4 +18,8 @@
   height: 140px;
 }
 
+.md-sidebar--primary {
+  padding-top: 0;
+}
+
 
