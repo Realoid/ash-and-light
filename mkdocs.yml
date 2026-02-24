@@ -13,7 +13,10 @@ theme:
 
 plugins:
   - search
-  - include-markdown
+
+markdown_extensions:
+  - pymdownx.snippets:
+      check_paths: true
 
 extra_css:
   - stylesheets/extra.css
