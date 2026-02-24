@@ -16,7 +16,7 @@ plugins:
 
 markdown_extensions:
   - pymdownx.snippets:
-      check_paths: true
+      base_path: docs
 
 extra_css:
   - stylesheets/extra.css
