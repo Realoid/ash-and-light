@@ -24,23 +24,23 @@ extra_css:
 
 nav:
   - Introduction:
-      - Overview: index.md#introduction
-      - Game Description: index.md#introduction
+      - Overview: "/#introduction"
+      - Game Description: "/#introduction"
   - Playing a Character:
-      - Overview: index.md#playing-a-character
-      - Types: index.md#playing-a-character
-      - Classes: index.md#playing-a-character
-      - Alignment: index.md#playing-a-character
+      - Overview: "/#playing-a-character"
+      - Types: "/#playing-a-character"
+      - Classes: "/#playing-a-character"
+      - Alignment: "/#playing-a-character"
   - The World:
-      - Overview: index.md#the-world
-      - Mythology: index.md#the-world
-      - Archons: index.md#the-world
-      - Timeline: index.md#the-world
-      - Prophecy: index.md#the-world
+      - Overview: "/#the-world"
+      - Mythology: "/#the-world"
+      - Archons: "/#the-world"
+      - Timeline: "/#the-world"
+      - Prophecy: "/#the-world"
   - Systems:
-      - Overview: index.md#systems
-      - Party and Companions: index.md#systems
-      - Combat: index.md#systems
-      - Progression and Levels: index.md#systems
-      - Exploration, Gear, Resources, Logistics: index.md#systems
-      - Economy, Crafting, Upgrades: index.md#systems
+      - Overview: "/#systems"
+      - Party and Companions: "/#systems"
+      - Combat: "/#systems"
+      - Progression and Levels: "/#systems"
+      - Exploration, Gear, Resources, Logistics: "/#systems"
+      - Economy, Crafting, Upgrades: "/#systems"

@@ -1,7 +1,3 @@
-\# Ash \& Light Codex
-
-
-
 \## Introduction {#introduction}
 
 --8<-- "01\_introduction/00\_intro.md"
@@ -49,6 +45,4 @@
 --8<-- "04\_systems/15\_exploration\_gear\_resources\_logistics.md"
 
 --8<-- "04\_systems/16\_economy\_crafting\_upgrades.md"
-
-
 
