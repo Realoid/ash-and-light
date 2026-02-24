@@ -50,5 +50,3 @@
 
 --8<-- "04\_systems/16\_economy\_crafting\_upgrades.md"
 
-
-
