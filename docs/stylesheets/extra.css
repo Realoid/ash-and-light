@@ -32,3 +32,32 @@
 :root {
   --md-primary-fg-color: #3a332f;
 }
+
+/* Sidebar scrollbar (Firefox) */
+.md-sidebar__scrollwrap {
+  scrollbar-width: thin;
+  scrollbar-color: #4a3322 #f6f6f6;
+}
+
+/* Sidebar scrollbar (WebKit: Chrome, Edge, Safari) */
+.md-sidebar__scrollwrap::-webkit-scrollbar {
+  width: 10px;
+}
+
+.md-sidebar__scrollwrap::-webkit-scrollbar-track {
+  background: #f6f6f6;
+}
+
+.md-sidebar__scrollwrap::-webkit-scrollbar-thumb {
+  background-color: #4a3322;
+  border-radius: 6px;
+  border: 2px solid #f6f6f6;
+}
+
+/* Sidebar link hover + active state (correct selectors) */
+.md-nav--primary .md-nav__link:hover,
+.md-nav--primary .md-nav__link:focus,
+.md-nav--primary .md-nav__item--active > .md-nav__link,
+.md-nav--primary .md-nav__link--active {
+  color: #4a3322 !important;
+}
