@@ -22,6 +22,7 @@ extra_css:
   - stylesheets/extra.css
 
 nav:
+  - Codex: index.md
   - Introduction:
       - 00_intro: 01_introduction/00_intro.md
       - 01_game_description: 01_introduction/01_game_description.md
