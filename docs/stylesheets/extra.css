@@ -63,3 +63,8 @@
 .md-sidebar__inner::-webkit-scrollbar-thumb:hover {
   background-color: #4a3322;
 }
+
+:root {
+  --md-scrollbar-thumb-color: #4a3322;
+  --md-scrollbar-thumb-color-hover: #4a3322;
+}
