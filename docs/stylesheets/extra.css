@@ -15,15 +15,11 @@
   background-position: left center;
   background-size: contain;
   width: 100%;
-  height: 140px;
+  height: 160px;
 }
 
 .md-sidebar--primary {
   padding-top: 0;
-}
-
-.md-nav__title {
-  margin-top: -8px;
 }
 
 
