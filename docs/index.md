@@ -2,7 +2,7 @@
 
 
 
-\## Introduction
+\## Introduction {#introduction}
 
 --8<-- "01\_introduction/00\_intro.md"
 
@@ -10,7 +10,7 @@
 
 
 
-\## Playing a Character
+\## Playing a Character {#playing-a-character}
 
 --8<-- "02\_playing\_a\_character/02\_playing\_a\_character.md"
 
@@ -22,7 +22,7 @@
 
 
 
-\## The World
+\## The World {#the-world}
 
 --8<-- "03\_the\_world/06\_the\_world.md"
 
@@ -36,7 +36,7 @@
 
 
 
-\## Systems
+\## Systems {#systems}
 
 --8<-- "04\_systems/11\_systems.md"
 
