@@ -22,6 +22,11 @@
   margin-top: 0;
 }
 
+.md-nav__title::before {
+  margin-top: -32px;
+}
+
+
 
 
 
