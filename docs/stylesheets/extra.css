@@ -35,6 +35,30 @@
   --md-primary-fg-color: #3a332f;
 }
 
+.md-sidebar__scrollwrap {
+  scrollbar-width: thin;
+  scrollbar-color: #4a3322 #f6f6f6;
+}
+
+.md-sidebar__scrollwrap::-webkit-scrollbar {
+  width: 10px;
+}
+
+.md-sidebar__scrollwrap::-webkit-scrollbar-track {
+  background: #f6f6f6;
+}
+
+.md-sidebar__scrollwrap::-webkit-scrollbar-thumb {
+  background-color: #4a3322;
+  border-radius: 6px;
+  border: 2px solid #f6f6f6;
+}
+
+/* Sidebar link hover + active color */
+.md-nav__link:hover,
+.md-nav__link--active {
+  color: #4a3322;
+}
 
 
 
