@@ -22,4 +22,24 @@ extra_css:
   - stylesheets/extra.css
 
 nav:
-  - Codex: index.md
+  - Introduction:
+      - Overview: 01_introduction/00_intro.md
+      - Game Description: 01_introduction/01_game_description.md
+  - Playing a Character:
+      - Overview: 02_playing_a_character/02_playing_a_character.md
+      - Types: 02_playing_a_character/03_types.md
+      - Classes: 02_playing_a_character/04_classes.md
+      - Alignment: 02_playing_a_character/05_alignment.md
+  - The World:
+      - Overview: 03_the_world/06_the_world.md
+      - Mythology: 03_the_world/07_mythology.md
+      - Archons: 03_the_world/08_archons.md
+      - Timeline: 03_the_world/09_timeline.md
+      - Prophecy: 03_the_world/10_prophecy.md
+  - Systems:
+      - Overview: 04_systems/11_systems.md
+      - Party and Companions: 04_systems/12_party_and_companions.md
+      - Combat: 04_systems/13_combat.md
+      - Progression and Levels: 04_systems/14_progression_and_levels.md
+      - Exploration, Gear, Resources, Logistics: 04_systems/15_exploration_gear_resources_logistics.md
+      - Economy, Crafting, Upgrades: 04_systems/16_economy_crafting_upgrades.md
