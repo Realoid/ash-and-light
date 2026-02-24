@@ -22,4 +22,8 @@
   padding-top: 0;
 }
 
+.md-nav__title {
+  margin-top: -0.5rem;
+}
+
 
