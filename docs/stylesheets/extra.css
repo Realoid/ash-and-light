@@ -13,7 +13,7 @@
   display: block;
   background-image: url("../images/logo.png");
   background-repeat: no-repeat;
-  background-position: left center;
+  background-position: left top;
   background-size: contain;
   width: 100%;
   height: 120px;
@@ -25,46 +25,18 @@
   border-right: 1px solid #e0e0e0;
 }
 
-:root {
-  --md-primary-fg-color: #3a332f;
-}
-
 .md-nav--primary .md-nav__link:hover,
 .md-nav--primary .md-nav__link:focus,
 .md-nav--primary .md-nav__item--active > .md-nav__link,
 .md-nav--primary .md-nav__link--active {
-  color: #4a3322 !important;
+  color: #4a3322;
 }
 
-.md-sidebar__scrollwrap,
-.md-sidebar__inner {
-  scrollbar-width: thin;
-  scrollbar-color: #4a3322 #f6f6f6;
-}
-
-.md-sidebar__scrollwrap::-webkit-scrollbar,
-.md-sidebar__inner::-webkit-scrollbar {
-  width: 10px;
-}
-
-.md-sidebar__scrollwrap::-webkit-scrollbar-track,
-.md-sidebar__inner::-webkit-scrollbar-track {
-  background: #f6f6f6;
-}
-
-.md-sidebar__scrollwrap::-webkit-scrollbar-thumb,
-.md-sidebar__inner::-webkit-scrollbar-thumb {
-  background-color: #4a3322;
-  border-radius: 6px;
-  border: 2px solid #f6f6f6;
-}
-
-.md-sidebar__scrollwrap::-webkit-scrollbar-thumb:hover,
-.md-sidebar__inner::-webkit-scrollbar-thumb:hover {
+.md-sidebar--primary .simplebar-scrollbar:before {
   background-color: #4a3322;
 }
 
-:root {
-  --md-scrollbar-thumb-color: #4a3322;
-  --md-scrollbar-thumb-color-hover: #4a3322;
+.md-sidebar--primary .simplebar-scrollbar:hover:before,
+.md-sidebar--primary .simplebar-scrollbar.simplebar-visible:before {
+  background-color: #4a3322;
 }
