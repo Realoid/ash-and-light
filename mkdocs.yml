@@ -8,7 +8,7 @@ theme:
   logo: images/logo.png
   palette:
     - scheme: default
-      primary: grey
+      primary: white
       accent: grey
   features:
     - navigation.sections
