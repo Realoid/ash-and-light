@@ -33,3 +33,8 @@
 .md-header {
   background-color: #eceae6;
 }
+
+/* Selected / active TOC item */
+.md-nav__item--active > .md-nav__link {
+  color: #6b4f2a;
+}
