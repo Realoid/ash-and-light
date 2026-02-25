@@ -14,11 +14,11 @@
   display: block;
 
   width: 100%;              /* responsive to sidebar width */
-  max-width: 320px;        /* safety cap on large screens */
+  max-width: 1024px;        /* safety cap on large screens */
   aspect-ratio: 3 / 1;     /* preserves logo proportions */
 
   background: url("../images/logo.png") no-repeat left top;
   background-size: contain;
 
-  margin-top: -26px;       /* pixel-precise vertical control */
+  margin-top: -8px;       /* pixel-precise vertical control */
 }
