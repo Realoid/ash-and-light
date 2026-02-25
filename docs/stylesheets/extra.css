@@ -22,10 +22,10 @@
   background-size: 100% auto;
 }
 
-:root {
-  --md-accent-fg-color: #2f2f2f;
-}
-
 .md-sidebar {
   background-color: #f5f4f2;
+}
+
+:root {
+  --md-accent-fg-color: #2f2f2f;
 }
