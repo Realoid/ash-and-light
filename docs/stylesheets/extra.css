@@ -25,3 +25,7 @@
 :root {
   --md-accent-fg-color: #2f2f2f;
 }
+
+.md-sidebar .md-nav {
+  background-color: #f5f4f2;
+}
