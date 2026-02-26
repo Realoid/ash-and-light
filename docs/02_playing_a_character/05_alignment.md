@@ -1,10 +1,10 @@
 **Alignment**
 
-Alignments represent the interpretive lens through which a character engages with the world of Ash & Light. Rather than moral labels or fixed choices, they reflect how actions are understood, justified, and carried forward over time. Light, Ash, and Tempered paths shape how consequences unfold, how the world responds, and what meaning the player derives from their journey.
+Alignments represent the interpretive lens through which a character engages with the world of Ash \& Light. Rather than moral labels or fixed choices, they reflect how actions are understood, justified, and carried forward over time. Light, Ash, and Tempered paths shape how consequences unfold, how the world responds, and what meaning the player derives from their journey.
 
 A chosen alignment must be upheld through sustained patterns of action; otherwise, it will gradually default to Tempered. Its effects become legible over time through how different factions and individuals react to you.
 
-**LIGHT – The Path of Compassion & Kindness**
+**LIGHT – The Path of Compassion \& Kindness**
 
 Warmth where the world could have stayed cold.
 
@@ -13,9 +13,9 @@ The player seeks meaning, purpose, and elevation. They want their actions to hea
 The world subtly warms around them. NPCs make choices that feel human and surprising. Compassion is not simply “being nice”; it is seeing what kindness makes possible in a harsh world where such choices are often costly.
 
 *How it plays out:*
-Someone you helped returns to fight alongside you. A merchant may later offer you an item of your choice. A frightened villager finds courage because of your example. A merchant you once defended arrives mid-battle with supplies to save your life.
+Someone you helped returns to fight alongside you. A smith may later offer you an item of your choice. A frightened villager finds courage because of your example. A merchant you once defended arrives mid-battle with supplies to save your life.
 
-**ASH – The Path of Will & Power**
+**ASH – The Path of Will \& Power**
 
 Where every obstacle becomes fuel.
 
@@ -26,7 +26,7 @@ Power is not cruelty; it is momentum. It is the satisfaction of standing, acting
 *How it plays out:*
 Killing someone may grant you their loot and the key to their home. Killing a merchant allows you to take everything they owned. A shop becomes a vault. A camp becomes a resource point. But they will never forgive you, and their allies may become your enemies later.
 
-**TEMPERED – The Path of Insight & Awe**
+**TEMPERED – The Path of Insight \& Awe**
 
 Witnessing patterns and truths that do not announce themselves.
 
@@ -36,3 +36,4 @@ Insight manifests as the hush before revelation: eclipses, resonance, shimmer. M
 
 *How it plays out:*
 You receive extra clues through writing or an inner voice while exploring. These insights lead to places others never find. You may gain loot, but you always gain access: hidden routes, forgotten temples, and entire vistas no one else realizes exist.
+
