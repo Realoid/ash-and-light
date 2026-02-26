@@ -5,9 +5,9 @@ Types define a character’s nature and origin within the world of Ash \& Light.
 **Alien**
 
 First known contact came from the Betelgeuse system during the Expansions Era (23rd century), when coalitions between species began to form. The Alien’s mastery of subatomic matter and superior intellect make them formidable opponents, often winning through strategy and the careful reading of an enemy’s rhythm. Their detached logic inspires admiration in some and unease in others, as their decisions often feel precise rather than compassionate.
-\*\*Particularity:\*\* Can teleport (with a cooldown)
-\*\*Diet:\*\* Very selective, eats little, consumes electricity to maintain humanoid form
-\*\*Weakness:\*\* Poison damage ×1.5; healing received ×0.9
+\*\*Particularity:\*\* Can teleport (with a cooldown)<br>
+\*\*Diet:\*\* Very selective, eats little, consumes electricity to maintain humanoid form<br>
+\*\*Weakness:\*\* Poison damage ×1.5; healing received ×0.9<br>
 
 **Ascendant**
 
