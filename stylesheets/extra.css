@@ -1,0 +1,40 @@
+.md-header__button.md-logo {
+  display: none;
+}
+
+.md-sidebar .md-nav__title {
+  font-size: 0;
+  line-height: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.md-sidebar .md-nav__title::before {
+  content: "";
+  display: block;
+
+  width: 100%;
+  max-width: 100%;
+
+  aspect-ratio: 1024 / 651;
+
+  background: url("../images/logo.png") no-repeat center top;
+  background-size: 100% auto;
+}
+
+:root {
+  --md-accent-fg-color: #2f2f2f;
+}
+
+.md-sidebar .md-nav {
+  background-color: #fbfaf9;
+}
+
+.md-header {
+  background-color: #eceae6;
+}
+
+/* Selected / active TOC item */
+.md-nav__item--active > .md-nav__link {
+  color: #6b4f2a;
+}
