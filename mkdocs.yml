@@ -1,5 +1,6 @@
 # mkdocs.yml
 site_name: Ash & Light
+site_url: https://ashandlight.org
 docs_dir: docs
 site_dir: site
 
